@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Employee Directory web interface
 
 ## Project info
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9c47942a-ab69-4072-9fab-9fda59937aaa) and start prompting.
+Simply visit the [project URL](https://lovable.dev/projects/9c47942a-ab69-4072-9fab-9fda59937aaa) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -64,7 +64,7 @@ This project is built with:
 
 Simply open [Lovable](https://lovable.dev/projects/9c47942a-ab69-4072-9fab-9fda59937aaa) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain?
 
 Yes, you can!
 
